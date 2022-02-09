@@ -2,6 +2,8 @@
 
 Simple Book Store Application to practice Java GUI (Graphic User Interface) using java Swing.
 
+![Bookstore](./bookstorelist.png)
+
 ## Usage
 
 To complie this project:
