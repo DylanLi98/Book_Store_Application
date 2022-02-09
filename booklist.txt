@@ -1,0 +1,47 @@
+Show book lists: 
+
+Title: Notre-Dame de Paris
+Author: Victor Marie Hugo
+Year: 940
+Publisher:Gosselin
+Stock: 78
+Title: Pride and Prejudice
+Author: Jane Austen
+Year: 266
+Publisher:T Egerton Whitehall
+Stock: 81
+Title: Wuthering Heights
+Author: Emily Brontë
+Year: 416
+Publisher:Thomas Cautley Newby
+Stock: 46
+Title: Notre-Dame de Paris
+Author: Victor Marie Hugo
+Year: 940
+Publisher:Gosselin
+Stock: 78
+Title: Pride and Prejudice
+Author: Jane Austen
+Year: 266
+Publisher:T Egerton Whitehall
+Stock: 81
+Title: Wuthering Heights
+Author: Emily Brontë
+Year: 416
+Publisher:Thomas Cautley Newby
+Stock: 46
+Title: Notre-Dame de Paris
+Author: Victor Marie Hugo
+Year: 940
+Publisher:Gosselin
+Stock: 78
+Title: Pride and Prejudice
+Author: Jane Austen
+Year: 266
+Publisher:T Egerton Whitehall
+Stock: 81
+Title: Wuthering Heights
+Author: Emily Brontë
+Year: 416
+Publisher:Thomas Cautley Newby
+Stock: 46
